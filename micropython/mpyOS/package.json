@@ -1,0 +1,11 @@
+{
+  "urls": [
+    ["temp/wifi.py", "github:go2m/s_ilib/micropython/mpyOS/wifi.py"],
+    ["temp/secrets.py", "github:org/micropython-mlx90640/mlx90640/utils.py"]
+  ],
+  "deps": [
+    ["collections-defaultdict", "latest"],
+    ["os-path", "latest"]
+  ],
+  "version": "0.1"
+}
