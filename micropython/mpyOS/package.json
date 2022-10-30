@@ -3,9 +3,5 @@
     ["temp/wifi.py", "github:go2m/s_ilib/micropython/mpyOS/wifi.py"],
     ["temp/secrets.py", "github:go2m/s_ilib/micropython/mpyOS/secrets.py"]
   ],
-  "deps": [
-    ["collections-defaultdict", "latest"],
-    ["os-path", "latest"]
-  ],
-  "version": "0.2"
+  "version": "0.3"
 }
