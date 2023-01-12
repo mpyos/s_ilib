@@ -1,6 +1,17 @@
 {
   "urls": [
-    [".ilib/l.pya", "github:go2m/s_ilib/micropython/esp32/l.pya"]
+    ["webrepl_cfg.py", "github:go2m/s_ilib/micropython/mpyOS/webrepl_cfg.py"],
+    ["boot.py", "github:go2m/s_ilib/micropython/mpyOS/boot.py"],
+    ["main.py", "github:go2m/s_ilib/micropython/mpyOS/main.py"],
+    ["lib/debug.mpy", "github:go2m/s_ilib/micropython/mpyOS/lib/debug.mpy"],
+    ["lib/go2m_aes_decrypt_all.mpy", "github:go2m/s_ilib/micropython/mpyOS/lib/go2m_aes_decrypt_all.mpy"],
+    ["lib/go2m_mpyaes.mpy", "github:go2m/s_ilib/micropython/mpyOS/lib/go2m_mpyaes.mpy"],
+    ["lib/go2m_os_hw.mpy", "github:go2m/s_ilib/micropython/mpyOS/lib/go2m_os_hw.mpy"],
+    ["lib/md5.mpy", "github:go2m/s_ilib/micropython/mpyOS/lib/md5.mpy"],
+    ["lib/microWebCli.mpy", "github:go2m/s_ilib/micropython/mpyOS/lib/microWebCli.mpy"],
+    ["lib/sccp.mpy", "github:go2m/s_ilib/micropython/mpyOS/lib/sccp.mpy"],
+    ["lib/urequests.mpy", "github:go2m/s_ilib/micropython/mpyOS/lib/urequests.mpy"],
+    [".ilib/l.pya", "github:go2m/s_ilib/micropython/mpyOS/_ilib/l.pya"]
   ],
-  "version": "0.13"
+  "version": "0.12"
 }
