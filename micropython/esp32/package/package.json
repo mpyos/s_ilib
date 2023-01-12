@@ -1,7 +1,7 @@
 {
   "urls": [   
-      [".ilib/l.pya", "github:go2m/s_ilib/micropython/mpyOS/_ilib/l.pya"]
+      [".ilib/l.pya", "github:go2m/s_ilib/micropython/esp32/l.pya"]
   ],
-  "version": "0.14"
+  "version": "0.15"
   }
   
